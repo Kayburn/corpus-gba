@@ -1,0 +1,6 @@
+datos/
+__pycache__/
+*.pt
+*.bin
+charmap.txt
+pokemon/
